@@ -1,0 +1,24 @@
+{
+  "name": "@markkevans/example-npm-module",
+  "version": "0.0.1",
+  "description": "Example NPM Module Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markkevans/example-npm-module.git"
+  },
+  "author": "markkevans",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markkevans/example-npm-module/issues"
+  },
+  "homepage": "https://github.com/markkevans/example-npm-module#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "istanbul": "^0.4.5",
+    "standard-version": "^7.1.0"
+  }
+}
